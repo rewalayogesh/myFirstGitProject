@@ -1,0 +1,10 @@
+git init
+git config --global user.name "NAME"
+git config --global user.email rewalayogesh@gmail.com
+
+git status
+
+git add
+git commit "filename"
+git remote add origin "repo path"
+git push -n origin MASTER
