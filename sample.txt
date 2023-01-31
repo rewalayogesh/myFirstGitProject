@@ -1,0 +1,8 @@
+Git Commands
+1. Configuration
+2. Starting a project
+3. Day-To-Day Work
+4. Git branching model
+6. Tagging known commits
+7. Synchronizing repositories
+8. Review your model
